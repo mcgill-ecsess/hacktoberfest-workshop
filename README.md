@@ -4,7 +4,7 @@ This repository is a list of great places to eat (preferably around McGill campu
 
 * Bagel & Cafe Co.
 * Vinh's Cafe
+* Burger King kills all 
 
 ## Contributors
-
 Erick Zhao - [@erickzhao](https://github.com/erickzhao)
